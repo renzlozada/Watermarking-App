@@ -54,4 +54,4 @@ This is a simple watermarking application built using Tkinter, allowing users to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/renzlozada/Watermarking-App/tree/main?tab=MIT-1-ov-file) file for details.
